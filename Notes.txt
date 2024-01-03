@@ -1,0 +1,21 @@
+Creating React App:
+1.npx create-react-app first_react_app
+(npm does nto work, no capital letters in name)
+2.cd to app.
+3. npm start.
+
+Creating vite app:
+1.npm create vite@latest
+2.Enter Project name (eg.First_Vite_App)
+3.Package name (empty)
+4.Framework (React)
+5.Variant (Javascript)
+
+6."npm i" to install node packages.
+7."npm run dev" to start Project.
+
+Component rules:
+1. In both vite and React Capitalize first letter in component name. (eg. Lorem instead of  lorem)
+2. Capitalize name of files. (convention)
+(eg. Hello.js instead of hello.js)
+3. Vite requires .jsx files, React allows both .js and .jsx files.
